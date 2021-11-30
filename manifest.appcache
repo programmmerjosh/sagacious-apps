@@ -1,0 +1,57 @@
+CACHE MANIFEST
+#DATE 04-09-2021
+CACHE:
+assets/img/app-store-badge.svg
+assets/img/brand-screenshots-min/addidas-min.png
+assets/img/brand-screenshots-min/amazon-min.png
+assets/img/brand-screenshots-min/apple-min.png
+assets/img/brand-screenshots-min/atandt-min.png
+assets/img/brand-screenshots-min/bbc-min.png
+assets/img/brand-screenshots-min/bp-min.png
+assets/img/brand-screenshots-min/bt-min.png
+assets/img/brand-screenshots-min/burgerking-min.png
+assets/img/brand-screenshots-min/cocacola-min.png
+assets/img/brand-screenshots-min/disney-min.png
+assets/img/brand-screenshots-min/dominos-min.png
+assets/img/brand-screenshots-min/doritos-min.png
+assets/img/brand-screenshots-min/ebay-min.png
+assets/img/brand-screenshots-min/fedex-min.png
+assets/img/brand-screenshots-min/google-min.png
+assets/img/brand-screenshots-min/harley-min.png
+assets/img/brand-screenshots-min/harvard-min.png
+assets/img/brand-screenshots-min/kfc-min.png
+assets/img/brand-screenshots-min/kodak-min.png
+assets/img/brand-screenshots-min/lacoste-min.png
+assets/img/brand-screenshots-min/lego-min.png
+assets/img/brand-screenshots-min/logo_transparent_background-min.png
+assets/img/brand-screenshots-min/mcdonalds-min.png
+assets/img/brand-screenshots-min/microsoft-min.png
+assets/img/brand-screenshots-min/nbc-min.png
+assets/img/brand-screenshots-min/new.png
+assets/img/brand-screenshots-min/nike-min.png
+assets/img/brand-screenshots-min/olympics-min.png
+assets/img/brand-screenshots-min/panda-min.png
+assets/img/brand-screenshots-min/playboy-min.png
+assets/img/brand-screenshots-min/puma-min.png
+assets/img/brand-screenshots-min/shell-min.png
+assets/img/brand-screenshots-min/starbucks-min.png
+assets/img/brand-screenshots-min/target-min.png
+assets/img/brand-screenshots-min/tesla-min.png
+assets/img/brand-screenshots-min/twitter-min.png
+assets/img/demo-screen-min.mp4
+assets/img/goal-symmetry-goals-min.png
+assets/img/google-play-badge.svg
+assets/img/GS - Just Launched Kickstarter-min.jpeg
+assets/img/logo_transparent_background-min.png
+assets/img/portrait_black.png
+assets/new e.ico
+css/styles-min.css
+js/footer-for-apps-min.js
+js/footer-min.js
+js/scripts.js
+js/sponsors-dummy-page-min.js
+
+NETWORK:
+*
+FALLBACK
+#static.html
