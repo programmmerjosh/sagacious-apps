@@ -49,6 +49,6 @@ template.innerHTML = `
         </div>
     </div>
 </div>
-`
+`;
 
 document.body.appendChild(template.content);
