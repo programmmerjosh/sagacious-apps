@@ -1,9 +1,10 @@
+const currentYear = new Date().getFullYear();
 const template = document.createElement('template');
 template.innerHTML = `
 <footer class="bg-black text-center py-5">
     <div class="container px-5">
         <div class="text-white-50 small">
-            <div class="mb-2">&copy; Sagacious Apps Limited 2021. All Rights Reserved.</div>
+            <div class="mb-2">&copy; Sagacious Apps Limited ${currentYear}. All Rights Reserved.</div>
             <a href="../privacy">Privacy</a>
             <span class="mx-1">&middot;</span>
             <a href="../faq">FAQs</a>
